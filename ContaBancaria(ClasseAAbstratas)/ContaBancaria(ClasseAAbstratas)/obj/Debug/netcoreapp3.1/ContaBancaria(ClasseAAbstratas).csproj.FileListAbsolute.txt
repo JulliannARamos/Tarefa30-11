@@ -1,0 +1,13 @@
+C:\Users\julli\source\repos\ContaBancaria(ClasseAAbstratas)\ContaBancaria(ClasseAAbstratas)\obj\Debug\netcoreapp3.1\ContaBancaria(ClasseAAbstratas).csprojAssemblyReference.cache
+C:\Users\julli\source\repos\ContaBancaria(ClasseAAbstratas)\ContaBancaria(ClasseAAbstratas)\obj\Debug\netcoreapp3.1\ContaBancaria(ClasseAAbstratas).AssemblyInfoInputs.cache
+C:\Users\julli\source\repos\ContaBancaria(ClasseAAbstratas)\ContaBancaria(ClasseAAbstratas)\obj\Debug\netcoreapp3.1\ContaBancaria(ClasseAAbstratas).AssemblyInfo.cs
+C:\Users\julli\source\repos\ContaBancaria(ClasseAAbstratas)\ContaBancaria(ClasseAAbstratas)\obj\Debug\netcoreapp3.1\ContaBancaria(ClasseAAbstratas).csproj.CoreCompileInputs.cache
+C:\Users\julli\source\repos\ContaBancaria(ClasseAAbstratas)\ContaBancaria(ClasseAAbstratas)\bin\Debug\netcoreapp3.1\ContaBancaria(ClasseAAbstratas).exe
+C:\Users\julli\source\repos\ContaBancaria(ClasseAAbstratas)\ContaBancaria(ClasseAAbstratas)\bin\Debug\netcoreapp3.1\ContaBancaria(ClasseAAbstratas).deps.json
+C:\Users\julli\source\repos\ContaBancaria(ClasseAAbstratas)\ContaBancaria(ClasseAAbstratas)\bin\Debug\netcoreapp3.1\ContaBancaria(ClasseAAbstratas).runtimeconfig.json
+C:\Users\julli\source\repos\ContaBancaria(ClasseAAbstratas)\ContaBancaria(ClasseAAbstratas)\bin\Debug\netcoreapp3.1\ContaBancaria(ClasseAAbstratas).runtimeconfig.dev.json
+C:\Users\julli\source\repos\ContaBancaria(ClasseAAbstratas)\ContaBancaria(ClasseAAbstratas)\bin\Debug\netcoreapp3.1\ContaBancaria(ClasseAAbstratas).dll
+C:\Users\julli\source\repos\ContaBancaria(ClasseAAbstratas)\ContaBancaria(ClasseAAbstratas)\bin\Debug\netcoreapp3.1\ContaBancaria(ClasseAAbstratas).pdb
+C:\Users\julli\source\repos\ContaBancaria(ClasseAAbstratas)\ContaBancaria(ClasseAAbstratas)\obj\Debug\netcoreapp3.1\ContaBancaria(ClasseAAbstratas).dll
+C:\Users\julli\source\repos\ContaBancaria(ClasseAAbstratas)\ContaBancaria(ClasseAAbstratas)\obj\Debug\netcoreapp3.1\ContaBancaria(ClasseAAbstratas).pdb
+C:\Users\julli\source\repos\ContaBancaria(ClasseAAbstratas)\ContaBancaria(ClasseAAbstratas)\obj\Debug\netcoreapp3.1\ContaBancaria(ClasseAAbstratas).genruntimeconfig.cache

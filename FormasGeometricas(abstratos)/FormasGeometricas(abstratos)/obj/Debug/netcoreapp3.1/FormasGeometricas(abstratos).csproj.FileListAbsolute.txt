@@ -1,0 +1,13 @@
+C:\Users\julli\source\repos\FormasGeometricas(abstratos)\FormasGeometricas(abstratos)\obj\Debug\netcoreapp3.1\FormasGeometricas(abstratos).csprojAssemblyReference.cache
+C:\Users\julli\source\repos\FormasGeometricas(abstratos)\FormasGeometricas(abstratos)\obj\Debug\netcoreapp3.1\FormasGeometricas(abstratos).AssemblyInfoInputs.cache
+C:\Users\julli\source\repos\FormasGeometricas(abstratos)\FormasGeometricas(abstratos)\obj\Debug\netcoreapp3.1\FormasGeometricas(abstratos).AssemblyInfo.cs
+C:\Users\julli\source\repos\FormasGeometricas(abstratos)\FormasGeometricas(abstratos)\obj\Debug\netcoreapp3.1\FormasGeometricas(abstratos).csproj.CoreCompileInputs.cache
+C:\Users\julli\source\repos\FormasGeometricas(abstratos)\FormasGeometricas(abstratos)\bin\Debug\netcoreapp3.1\FormasGeometricas(abstratos).exe
+C:\Users\julli\source\repos\FormasGeometricas(abstratos)\FormasGeometricas(abstratos)\bin\Debug\netcoreapp3.1\FormasGeometricas(abstratos).deps.json
+C:\Users\julli\source\repos\FormasGeometricas(abstratos)\FormasGeometricas(abstratos)\bin\Debug\netcoreapp3.1\FormasGeometricas(abstratos).runtimeconfig.json
+C:\Users\julli\source\repos\FormasGeometricas(abstratos)\FormasGeometricas(abstratos)\bin\Debug\netcoreapp3.1\FormasGeometricas(abstratos).runtimeconfig.dev.json
+C:\Users\julli\source\repos\FormasGeometricas(abstratos)\FormasGeometricas(abstratos)\bin\Debug\netcoreapp3.1\FormasGeometricas(abstratos).dll
+C:\Users\julli\source\repos\FormasGeometricas(abstratos)\FormasGeometricas(abstratos)\bin\Debug\netcoreapp3.1\FormasGeometricas(abstratos).pdb
+C:\Users\julli\source\repos\FormasGeometricas(abstratos)\FormasGeometricas(abstratos)\obj\Debug\netcoreapp3.1\FormasGeometricas(abstratos).dll
+C:\Users\julli\source\repos\FormasGeometricas(abstratos)\FormasGeometricas(abstratos)\obj\Debug\netcoreapp3.1\FormasGeometricas(abstratos).pdb
+C:\Users\julli\source\repos\FormasGeometricas(abstratos)\FormasGeometricas(abstratos)\obj\Debug\netcoreapp3.1\FormasGeometricas(abstratos).genruntimeconfig.cache

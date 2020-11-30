@@ -1,0 +1,13 @@
+C:\Users\julli\source\repos\Loja de Produtos (Polimorfismo)\Loja de Produtos (Polimorfismo)\bin\Debug\netcoreapp3.1\Loja de Produtos (Polimorfismo).exe
+C:\Users\julli\source\repos\Loja de Produtos (Polimorfismo)\Loja de Produtos (Polimorfismo)\bin\Debug\netcoreapp3.1\Loja de Produtos (Polimorfismo).deps.json
+C:\Users\julli\source\repos\Loja de Produtos (Polimorfismo)\Loja de Produtos (Polimorfismo)\bin\Debug\netcoreapp3.1\Loja de Produtos (Polimorfismo).runtimeconfig.json
+C:\Users\julli\source\repos\Loja de Produtos (Polimorfismo)\Loja de Produtos (Polimorfismo)\bin\Debug\netcoreapp3.1\Loja de Produtos (Polimorfismo).runtimeconfig.dev.json
+C:\Users\julli\source\repos\Loja de Produtos (Polimorfismo)\Loja de Produtos (Polimorfismo)\bin\Debug\netcoreapp3.1\Loja de Produtos (Polimorfismo).dll
+C:\Users\julli\source\repos\Loja de Produtos (Polimorfismo)\Loja de Produtos (Polimorfismo)\bin\Debug\netcoreapp3.1\Loja de Produtos (Polimorfismo).pdb
+C:\Users\julli\source\repos\Loja de Produtos (Polimorfismo)\Loja de Produtos (Polimorfismo)\obj\Debug\netcoreapp3.1\Loja de Produtos (Polimorfismo).csprojAssemblyReference.cache
+C:\Users\julli\source\repos\Loja de Produtos (Polimorfismo)\Loja de Produtos (Polimorfismo)\obj\Debug\netcoreapp3.1\Loja de Produtos (Polimorfismo).AssemblyInfoInputs.cache
+C:\Users\julli\source\repos\Loja de Produtos (Polimorfismo)\Loja de Produtos (Polimorfismo)\obj\Debug\netcoreapp3.1\Loja de Produtos (Polimorfismo).AssemblyInfo.cs
+C:\Users\julli\source\repos\Loja de Produtos (Polimorfismo)\Loja de Produtos (Polimorfismo)\obj\Debug\netcoreapp3.1\Loja de Produtos (Polimorfismo).csproj.CoreCompileInputs.cache
+C:\Users\julli\source\repos\Loja de Produtos (Polimorfismo)\Loja de Produtos (Polimorfismo)\obj\Debug\netcoreapp3.1\Loja de Produtos (Polimorfismo).dll
+C:\Users\julli\source\repos\Loja de Produtos (Polimorfismo)\Loja de Produtos (Polimorfismo)\obj\Debug\netcoreapp3.1\Loja de Produtos (Polimorfismo).pdb
+C:\Users\julli\source\repos\Loja de Produtos (Polimorfismo)\Loja de Produtos (Polimorfismo)\obj\Debug\netcoreapp3.1\Loja de Produtos (Polimorfismo).genruntimeconfig.cache
